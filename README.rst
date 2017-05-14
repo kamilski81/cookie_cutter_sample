@@ -17,6 +17,8 @@
 
     $ python3 manage.py test
 
+5) Read docs/pycharm/configuration.rst to debug your Docker tests and server.
+
 # Kamil Docuemntation End
 
 # Cookie Cutter Existing Documentation Start:
