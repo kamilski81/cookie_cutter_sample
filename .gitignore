@@ -66,6 +66,7 @@ node_modules/
 
 # virtual environments
 .env
+env/
 
 # User-uploaded media
 cookie_cutter_sample/media/

@@ -1,3 +1,26 @@
+# Kamil Documentation Start:
+
+1) Install cookie-cutter project::
+
+    https://github.com/pydanny/cookiecutter-django#usage
+
+2) Create and activate your virtualenv::
+
+    https://github.com/kamilski81/django_tutorial
+
+3) Install all the local, and test requirements::
+
+    $ pip install -r requirements/local.txt
+    $ pip install -r requirements/test.txt
+
+4) Run the tests::
+
+    $ python3 manage.py test
+
+# Kamil Docuemntation End
+
+# Cookie Cutter Existing Documentation Start:
+
 Cookie Cutter Sample
 ====================
 
@@ -99,3 +122,4 @@ See detailed `cookiecutter-django Docker documentation`_.
 .. _`cookiecutter-django Docker documentation`: http://cookiecutter-django.readthedocs.io/en/latest/deployment-with-docker.html
 
 
+# Cookie Cutter Existing Documentation End
