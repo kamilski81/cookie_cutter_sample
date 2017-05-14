@@ -6,9 +6,6 @@ Test settings
 
 from .base import *  # noqa
 
-import django
-django.setup()
-
 # DEBUG
 # ------------------------------------------------------------------------------
 # Turn debug off so tests run faster
