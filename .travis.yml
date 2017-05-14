@@ -12,4 +12,5 @@ install: "pip install -r requirements/test.txt"
 language: python
 python:
   - "3.5"
-script: nosetests
+script:
+  - python manage.py test
