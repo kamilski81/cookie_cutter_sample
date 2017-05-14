@@ -6,6 +6,8 @@ Test settings
 
 from .base import *  # noqa
 
+import django
+django.setup()
 
 # DEBUG
 # ------------------------------------------------------------------------------
